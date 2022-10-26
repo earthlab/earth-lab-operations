@@ -1,3 +1,3 @@
-# Earth Lab Analytics Hub operations repository
+# Earth Lab Operations repository
 
-This repo serves to host a Wiki that the Analtyics Hub team uses to track its operations: https://github.com/earthlab/analytics-hub/wiki
+This repo serves to host a Wiki on Earth Lab operations: https://github.com/earthlab/analytics-hub/wiki
